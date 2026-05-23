@@ -1,62 +1,70 @@
-# Hi, I'm Sridarshan B 👋
+# Sridarshan B
 
-🎓 B.Tech Electrical & Electronics Engineering (Smart Grids & EV)
-SASTRA Deemed University | CGPA: 8.60 | Final Year
+Not a software guy who wandered into hardware.
+A hardware guy who picked up whatever tools he needed.
 
----
-
-## 🔧 What I work on
-Power electronics, EV drivetrains, Motor drives and embedded control systems —
-from simulation to real hardware. Sustainability is any space is a boon to humankind
+B.Tech EEE — Smart Grids & EV | SASTRA Deemed University
+CGPA: 8.60 | Graduating 2026
 
 ---
 
-## ⚡ Projects
-| Project | What I built | Tools |
-|---|---|---|
-| [DC-DC Buck Converter with Soft Starting](https://github.com/Sridarshan-b/Buck-Converter-soft-starting) | Hardware converter with C2000 firmware, PCB design | MATLAB, KiCad, TI C2000 |
-| Cubic-Gain Non-Isolated DC-DC Converter with low voltage stress | Voltage stress analysis, power loss modelling | MATLAB/Simulink |
-| High Voltage Bipolar Pulse Generator | 2.5kV H-FIRE waveform for biomedical electroporation | LTSpice, MATLAB |
-| LSTM Battery SoC Predictor | Deep learning model to predict EV battery time-to-zero | Python, MATLAB Simscape |
+## What I actually wanna do
+
+I wanna work on the parts of electronics where mistakes
+cost more than a recompile.
+
+Converters that need to not blow up. Controllers
+that need to respond in microseconds. Learn actual things rather than the rote old school
+syllabus. Look at actual problems, discuss, observe, unconventional methods, try to solve 'em . My goal - Sustainability at any level is a boon to mankind, each one of our sincere contribution towards it is similar to an offering to God---
+
+## Projects
+
+**[DC-DC Buck Converter with Soft Starting](https://github.com/Sridarshan-b/Buck-Converter-soft-starting)**
+12V → 5V at 150kHz. Complementary MOSFET drive with
+20ns dead time. Soft-start over 75 steps × 1ms.
+C2000 firmware, KiCad PCB, built and tested on hardware.
+
+**Cubic-Gain Non-Isolated DC-DC Converter**
+Pushed voltage gain without isolation. Half output
+voltage stress on switches. Power loss analysis done.
+Simulation complete in MATLAB/Simulink.
+
+** High-Voltage Bipolar Pulse Generator**
+2.5kV H-FIRE based converter for biomedical electroporation.
+Inductor-based topology. Not a Marx generator —
+a deliberate design choice.
+
+**LSTM Battery SoC Predictor**
+Predicts EV battery time-to-zero using deep learning.
+Validated against MATLAB Simscape model.
 
 ---
 
-## 🛠️ Skills
-**Simulation:** MATLAB / Simulink, LTSpice
-**Embedded:** TI C2000 (F2806x), Code Composer Studio
-**Hardware:** PCB design (KiCad), Inductor/Capacitor sizing
-**Programming:** C, C++, Python (basic)
-**Other:** LaTeX, Git
+## The way I think
+
+Step in first. Let the real problem show itself.
+
+Thinking hard before you've touched something means
+you're solving an imaginary version of it. I'd rather
+have real data from a real situation before I commit
+to a solution.
+
+This has saved me more debugging time than any
+textbook approach.
 
 ---
 
-## 🎯 Interests
-- Power Electronics for Renewable Energy
-- Electric Vehicle Drivetrains
-- Electric Motor Drives
-- SiC and GaN-based Power Converters
+## Tools I reach for
 
----
-
-## 📫 Reach me
-- 📧 sridarshanb2907@gmail.com
-- 💼 LinkedIn www.linkedin.com/in/sridarshan29
+Simulation → MATLAB / Simulink, LTSpice
+Embedded → TI C2000, Code Composer Studio
+Hardware → KiCad, oscilloscope, and patience
+Docs → LaTeX, Git
+Languages → C, C++, Python 
 
 ---
 
 ---
 
-## 🧠 How I approach problems
-
-> **Step in first. Let the real problem reveal itself.
-> Then think with full context — not assumptions.**
-
-Avoid theorising before you've touched the problem.
-I'd rather get my hands dirty on it, understand what's actually
-happening, and then bring structured thinking to a real situation.
-
-Overthinking before stepping in is just solving an imaginary problem.
-
----
-
-*"Step in. See clearly. Solve what's real."*
+📧 sridarshanb2907@gmail.com
+💼 www.linkedin.com/in/sridarshan29
