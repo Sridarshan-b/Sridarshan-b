@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Sridarshan B 👋
 
-<!--
-**Sridarshan-b/Sridarshan-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electrical & Electronics Engineering (Smart Grids & EV)
+SASTRA Deemed University | CGPA: 8.60 | Final Year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work on
+Power electronics, EV drivetrains, Motor drives and embedded control systems —
+from simulation to real hardware.
+
+---
+
+## ⚡ Projects
+| Project | What I built | Tools |
+|---|---|---|
+| [DC-DC Buck Converter with Soft Starting](https://github.com/Sridarshan-b/Buck-Converter-soft-starting) | Hardware converter with C2000 firmware, PCB design | MATLAB, KiCad, TI C2000 |
+| Cubic-Gain Non-Isolated DC-DC Converter with low voltage stress | Voltage stress analysis, power loss modelling | MATLAB/Simulink |
+| High Voltage Bipolar Pulse Generator | 2.5kV H-FIRE waveform for biomedical electroporation | LTSpice, MATLAB |
+| LSTM Battery SoC Predictor | Deep learning model to predict EV battery time-to-zero | Python, MATLAB Simscape |
+
+---
+
+## 🛠️ Skills
+**Simulation:** MATLAB / Simulink, LTSpice
+**Embedded:** TI C2000 (F2806x), Code Composer Studio
+**Hardware:** PCB design (KiCad), Inductor/Capacitor sizing
+**Programming:** C, C++, Python (basic)
+**Other:** LaTeX, Git
+
+---
+
+## 🎯 Interests
+- Power Electronics for Renewable Energy
+- Electric Vehicle Drivetrains
+- Electric Motor Drives
+- SiC and GaN-based Power Converters
+
+---
+
+## 📫 Reach me
+- 📧 sridarshanb2907il.com
+- 💼 LinkedIn www.linkedin.com/in/sridarshan29
+
+---
+
+*"Build it. Test it. Break it. Think it. Fix it."*
