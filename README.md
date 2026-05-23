@@ -15,7 +15,7 @@ cost more than a recompile.
 
 Converters that need to not blow up. Controllers
 that need to respond in microseconds. Learn actual things rather than the rote old school
-syllabus. Look at actual problems, discuss, observe, unconventional methods, try to solve 'em . My goal - Sustainability at any level is a boon to mankind, each one of our sincere contribution towards it is similar to an offering to God---
+syllabus. Look at actual problems, discuss, observe, unconventional methods, try to solve them . My goal - "Sustainability at any level is a boon to mankind, each one of our sincere contribution towards it is similar to an offering to God"
 
 ## Projects
 
@@ -29,7 +29,7 @@ Pushed voltage gain without isolation. Half output
 voltage stress on switches. Power loss analysis done.
 Simulation complete in MATLAB/Simulink.
 
-** High-Voltage Bipolar Pulse Generator**
+**High-Voltage Bipolar Pulse Generator**
 2.5kV H-FIRE based converter for biomedical electroporation.
 Inductor-based topology. Not a Marx generator —
 a deliberate design choice.
