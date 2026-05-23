@@ -7,7 +7,7 @@ SASTRA Deemed University | CGPA: 8.60 | Final Year
 
 ## 🔧 What I work on
 Power electronics, EV drivetrains, Motor drives and embedded control systems —
-from simulation to real hardware.
+from simulation to real hardware. Sustainability is any space is a boon to humankind
 
 ---
 
@@ -39,9 +39,24 @@ from simulation to real hardware.
 ---
 
 ## 📫 Reach me
-- 📧 sridarshanb2907il.com
+- 📧 sridarshanb2907@gmail.com
 - 💼 LinkedIn www.linkedin.com/in/sridarshan29
 
 ---
 
-*"Build it. Test it. Break it. Think it. Fix it."*
+---
+
+## 🧠 How I approach problems
+
+> **Step in first. Let the real problem reveal itself.
+> Then think with full context — not assumptions.**
+
+Avoid theorising before you've touched the problem.
+I'd rather get my hands dirty on it, understand what's actually
+happening, and then bring structured thinking to a real situation.
+
+Overthinking before stepping in is just solving an imaginary problem.
+
+---
+
+*"Step in. See clearly. Solve what's real."*
