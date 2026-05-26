@@ -4,7 +4,7 @@ Not a software guy who wandered into hardware.
 A hardware guy who picked up whatever tools he needed.
 
 B.Tech EEE — Smart Grids & EV | SASTRA Deemed University
-CGPA: 8.60 | Graduating 2026
+CGPA: 8.68 | Graduating 2026
 
 ---
 
